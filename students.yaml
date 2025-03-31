@@ -1,0 +1,17 @@
+students:
+  - name: John Doe
+    age: 20
+    major: Computer Science
+    gpa: 3.8
+  - name: Jane Smith
+    age: 21
+    major: Engineering
+    gpa: 3.9
+  - name: Mike Johnson
+    age: 19
+    major: Mathematics
+    gpa: 3.5
+  - name: Sarah Williams
+    age: 22
+    major: Physics
+    gpa: 4.0
